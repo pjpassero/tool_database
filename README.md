@@ -1,5 +1,5 @@
 <h1>Hardware Store Final Project</h1>
-<p>This is a project done for my introductory C++ class. In the project, there was practice with classes or structs, file handling, console output manipulation, operator overloading, and a strong focus on documentation and code readability. </p>
+<p>This is a project done for my introductory C++ class. In the project, there was practice with classes or structs, file handling, console output manipulation, operator overloading, seperation of class files and implementation files, and a strong focus on documentation and code readability. </p>
 
 
 <h2>Assignment</h2>
